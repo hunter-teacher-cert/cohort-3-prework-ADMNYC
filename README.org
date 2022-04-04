@@ -1,6 +1,6 @@
-* Last name:
-* First name:
-* Github username:
+* Last name: Del Mundo  
+* First name: Andrew
+* Github username: adm@usa.com
 
 * Instructions:
 
